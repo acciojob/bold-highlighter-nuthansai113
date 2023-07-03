@@ -1,4 +1,4 @@
-bold highlighter
+
 
 
 function highlight() {
